@@ -1,2 +1,3 @@
 # otus-mssql-2021-03-nkrutyh
-Repository for OTUS MSSQL Course 2021
+Домашние задания курса OTUS "MS SQL Server Developer".
+Группа 2021-03.
